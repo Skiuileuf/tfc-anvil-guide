@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tfc-anvil-guide/static/css/main.3c827818.css",
-    "main.js": "/tfc-anvil-guide/static/js/main.7c3497d1.js",
+    "main.css": "/tfc-anvil-guide/static/css/main.e6c13ad2.css",
+    "main.js": "/tfc-anvil-guide/static/js/main.a115d388.js",
     "static/js/787.077ad65b.chunk.js": "/tfc-anvil-guide/static/js/787.077ad65b.chunk.js",
     "index.html": "/tfc-anvil-guide/index.html",
-    "main.3c827818.css.map": "/tfc-anvil-guide/static/css/main.3c827818.css.map",
-    "main.7c3497d1.js.map": "/tfc-anvil-guide/static/js/main.7c3497d1.js.map",
+    "main.e6c13ad2.css.map": "/tfc-anvil-guide/static/css/main.e6c13ad2.css.map",
+    "main.a115d388.js.map": "/tfc-anvil-guide/static/js/main.a115d388.js.map",
     "787.077ad65b.chunk.js.map": "/tfc-anvil-guide/static/js/787.077ad65b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c827818.css",
-    "static/js/main.7c3497d1.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a115d388.js"
   ]
 }
