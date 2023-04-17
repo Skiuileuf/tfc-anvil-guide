@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tfc-anvil-guide/static/css/main.073c9b0a.css",
+    "main.js": "/tfc-anvil-guide/static/js/main.5db343e6.js",
+    "static/js/787.077ad65b.chunk.js": "/tfc-anvil-guide/static/js/787.077ad65b.chunk.js",
+    "index.html": "/tfc-anvil-guide/index.html",
+    "main.073c9b0a.css.map": "/tfc-anvil-guide/static/css/main.073c9b0a.css.map",
+    "main.5db343e6.js.map": "/tfc-anvil-guide/static/js/main.5db343e6.js.map",
+    "787.077ad65b.chunk.js.map": "/tfc-anvil-guide/static/js/787.077ad65b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5db343e6.js"
+  ]
+}
