@@ -4,6 +4,11 @@
   "private": true,
   "homepage": "https://skiuileuf.github.io/tfc-anvil-guide",
   "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@mantine/core": "^6.0.7",
+    "@mantine/form": "^6.0.7",
+    "@mantine/hooks": "^6.0.7",
+    "@mantine/modals": "^6.0.7",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",

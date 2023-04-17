@@ -8,9 +8,9 @@ interface ForgeStepRowProps {
 export default function ForgeStepRow( {step} : ForgeStepRowProps) {
     return (
     <tr>
-        <td><img src={getForgeStepImage(step)} alt={step.toString()} /></td>
+        <td style={{backgroundColor: step < 0 ? "#890202" : "#337336"}}><img src={getForgeStepImage(step)} alt={step.toString()} /></td>
         <td>{ForgeStep[step]}</td>
         <td style={{textAlign: "right"}}>{step}</td>
-        <td></td>
+        <td> </td>
     </tr>);
 }
